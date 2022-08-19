@@ -12,13 +12,15 @@
     * If the 'scoop' pass is raised above the nearest opponents handlebars.
     * If the follow through of the back-hand shot or pass extends above the nearest opponents handlebars.
 * §9.2.2 – A High Sticking penalty is assessed when a player attempts to swing their mallet or either hand at an airborne ball at a height above their shoulders or the nearest opponent’s shoulders.
-  * §9.2.2.1 – If the player is located a safe distance – approximately 10 feet \(10' or 3m\) or more – from their nearest opponent they are permitted to place their mallet in the air, without swinging it, and knock the ball to the ground directly below their mallet.
-  * §9.2.2.2 – If the player is located a safe distance – approximately 10 feet \(10' or 3m\) or more – from their nearest opponent they are permitted use their hand, with their mallet pointed straight down, to contact an airborne ball. A Carrying penalty per §5.6 further regulates this action if the ball is below shoulder height.
+  * §9.2.2.1 – If the player is located a safe distance – approximately 10 feet (10' or 3m) or more – from their nearest opponent they are permitted to place their mallet in the air, without swinging it, and knock the ball to the ground directly below their mallet.
+  * §9.2.2.2 – If the player is located a safe distance – approximately 10 feet (10' or 3m) or more – from their nearest opponent they are permitted use their hand, with their mallet pointed straight down, to contact an airborne ball. A Carrying penalty per §5.6 further regulates this action if the ball is below shoulder height.
+* §9.2.3 – A High Sticking penalty is assessed when a player attempts to initiate contact or impede the mallet of an opposing player above the height of either player’s handlebars.
+* §9.2.4 – A Minor or Major penalty is assessed to any player who hits the body of another player while High Sticking, as determined by the Referee.
 
 **§9.3 – Jamming**
 
 * §9.3.1 – A Jamming penalty is assessed when a player causes an opponent to dab by placing their mallet underneath their opponent’s front or rear wheel.
-  * §9.3.1.1 – No penalty is assessed if the Referee deems that the player who is not in position to make a play on the ball uses their wheel to initiate contact with an opponent's mallet that is planted or otherwise cannot be avoided. 
+  * §9.3.1.1 – No penalty is assessed if the Referee deems that the player who is not in position to make a play on the ball uses their wheel to initiate contact with an opponent's mallet that is planted or otherwise cannot be avoided.&#x20;
 
 **§9.4 – Hooking**
 
@@ -37,4 +39,3 @@
 * §9.6.4 – Should a player drop their mallet, they may continue play without it.
   * §9.6.4.1 – The Referee, at their discretion, assesses a Mallet Dropping penalty if the dropped mallet causes a dab or affects play in any other way.
   * §9.6.4.2 – Defensive players may move the mallet if the ability to defend goal is impeded.
-
