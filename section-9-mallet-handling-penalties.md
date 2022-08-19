@@ -14,8 +14,8 @@
 * §9.2.2 – A High Sticking penalty is assessed when a player attempts to swing their mallet or either hand at an airborne ball at a height above their shoulders or the nearest opponent’s shoulders.
   * §9.2.2.1 – If the player is located a safe distance – approximately 10 feet (10' or 3m) or more – from their nearest opponent they are permitted to place their mallet in the air, without swinging it, and knock the ball to the ground directly below their mallet.
   * §9.2.2.2 – If the player is located a safe distance – approximately 10 feet (10' or 3m) or more – from their nearest opponent they are permitted use their hand, with their mallet pointed straight down, to contact an airborne ball. A Carrying penalty per §5.6 further regulates this action if the ball is below shoulder height.
-* §9.2.3 – A High Sticking penalty is assessed when a player attempts to initiate contact or impede the mallet of an opposing player above the height of either player’s handlebars.
-* §9.2.4 – A Minor or Major penalty is assessed to any player who hits the body of another player while High Sticking, as determined by the Referee.
+
+
 
 **§9.3 – Jamming**
 
